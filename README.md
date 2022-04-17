@@ -1,4 +1,6 @@
-![I am Data Scientist ](images.png)
+![images](https://user-images.githubusercontent.com/55239590/163695692-1b42fa1d-420d-4e88-8c80-4ca45376b531.jpg)
+
+
 ### Hi there 👋, Mohammed Kashalo
 
 I'm an Analytical Data scientist, I help companies make data-driven decisions and understand their business better by asking questions, Analyze data, Extract actionable insights, Build ML models, Make data visualizations and dashboards.
