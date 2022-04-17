@@ -1,4 +1,4 @@
-![I am Data Scientist ](https://github.com/Mokashaa2000/Mokashaa2000/blob/main/images.png)
+![I am Data Scientist ](images.png)
 ### Hi there 👋, Mohammed Kashalo
 
 I'm an Analytical Data scientist, I help companies make data-driven decisions and understand their business better by asking questions, Analyze data, Extract actionable insights, Build ML models, Make data visualizations and dashboards.
