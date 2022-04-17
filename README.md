@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/55239590/163695692-1b42fa1d-420d-4e88-8c80-4ca45376b531.jpg" width="700" height="200">
+![images](https://github.com/Mokashaa2000/Mokashaa2000/blob/main/images.png)
 
 ### Hi there 👋, Mohammed Kashalo
 
