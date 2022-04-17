@@ -1,5 +1,5 @@
-![images](https://user-images.githubusercontent.com/55239590/163695692-1b42fa1d-420d-4e88-8c80-4ca45376b531.jpg)
 
+<img src="https://user-images.githubusercontent.com/55239590/163695692-1b42fa1d-420d-4e88-8c80-4ca45376b531.jpg" width="100" height="100">
 
 ### Hi there 👋, Mohammed Kashalo
 
