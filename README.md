@@ -1,5 +1,6 @@
 
-![images](https://github.com/Mokashaa2000/Mokashaa2000/blob/main/images.jpg)
+
+<img src="https://github.com/Mokashaa2000/Mokashaa2000/blob/main/images.jpg" width="250">
 
 ### Hi there 👋, Mohammed Kashalo
 
