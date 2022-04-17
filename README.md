@@ -1,6 +1,4 @@
-
-
-<img src="https://github.com/Mokashaa2000/Mokashaa2000/blob/main/images.jpg" width="250">
+![dataa](https://github.com/Mokashaa2000/Mokashaa2000/blob/main/dataa.jpg)
 
 ### Hi there 👋, Mohammed Kashalo
 
